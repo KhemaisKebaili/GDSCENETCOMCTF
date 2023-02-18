@@ -1,0 +1,11 @@
+My friend samir lives in weird house up in the sky , he left me a message in his house and challenged me to find it.
+he likes old tech and prefers his data stored on physical devices ,he does not believe in this new "CLOUD" stuff.
+
+the message will be compsed of two parts.
+
+flag format GDSC{part1part2} (lowercase).
+
+Here is the link to [Samir's house](https://drive.google.com/file/d/1eybbXgyxR52V47pKwAnAlSe4bwL5QAh_/view?usp=share_link) 
+
+
+*  Author : [Adam](https://www.linkedin.com/in/adam-abichou/)

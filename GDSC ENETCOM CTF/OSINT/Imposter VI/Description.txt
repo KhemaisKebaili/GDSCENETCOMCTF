@@ -1,0 +1,24 @@
+You've shown that you have great investigation skills so far! Here's a tricky one, the imposter didn't just expose his identity, he made an even bigger Oopsie and he leaked his own address..
+
+Can you help us figure out where he lives?
+
+Accaptable flag formats : 
+
+
+GDSC{GPSLatitudeCoordinates,GPSLongitudeCoordinates}
+
+OR 
+
+GDSC{NameOfAppartmentBuildingOrResidence} (Replace spaces with a "_")
+
+Example :
+
+GDSC{34.79912044163496, 10.757213423970821}
+
+OR
+
+GDSC{RESIDENCE_KHADIJA}
+
+Keep in mind , you only have 5 attempts for this one!
+
+*  Author : [5mayes](https://www.linkedin.com/in/khemaïs-kebaili)

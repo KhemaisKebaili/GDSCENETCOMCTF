@@ -1,0 +1,7 @@
+The imposter tried his best to stay anonymous but he/she made a rookie mistake..
+
+Can you get his/her real identity?
+
+Flag format : GDSC{Firstname_Lastname}
+
+*  Author : [5mayes](https://www.linkedin.com/in/khemaïs-kebaili)

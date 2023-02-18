@@ -1,0 +1,6 @@
+Any flag of these is acceptable :
+
+GDSC{https://www.instagram.com/p/Cgt1MVXFENp/}	
+GDSC{www.instagram.com/p/Cgt1MVXFENp/}
+GDSC{www.instagram.com/p/Cgt1MVXFENp}
+GDSC{https://www.instagram.com/p/Cgt1MVXFENp}

@@ -1,0 +1,9 @@
+DNS is fascinating, it is the backbone of the internet, and since pessiron loves networking, he though that he should learn how DNS works.
+
+
+So the admins of **chalghoum.tn** gave him access to the sites DNS settings, and knowing pessiron I suspect that he left something behind ... but i don't know what it is !
+
+
+Can you help me find out ?
+
+*  Author : [Alzomra](https://oussemaloukil.me)

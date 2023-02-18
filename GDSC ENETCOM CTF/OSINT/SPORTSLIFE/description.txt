@@ -1,0 +1,12 @@
+A friend of mine, being a huge football fan and a geek at the same time told me that he would find cameras installed in football pitches all over the world and would watch amateur football all day. He says that the best young players comes from Naples Italy. 
+
+He gave me this picture and challenged me to find the IP address of this camera in order to "see with my own eyes the next pirlo making his first steps in football". 
+
+
+Help me find the IP address of the camera.
+
+
+Flag format : GDSC{IP_ADDRESS}
+Example: GDSC{10.10.10.10}
+
+*  Author : [5mayes](https://www.linkedin.com/in/khemaïs-kebaili)

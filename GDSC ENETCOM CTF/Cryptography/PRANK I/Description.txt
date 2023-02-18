@@ -1,0 +1,7 @@
+I was working on writing a CTF challenge and someone thought that it would be funny to replace the flag with its hash. I forgot what it was supposed to be. Can you figure it out?
+
+
+GDSC{86229E633B6F3E255261A51B98B2A9E9}
+
+
+*  Author : [5mayes](https://www.linkedin.com/in/khemaïs-kebaili)

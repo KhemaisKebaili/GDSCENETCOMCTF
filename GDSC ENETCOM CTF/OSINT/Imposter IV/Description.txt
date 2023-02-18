@@ -1,0 +1,7 @@
+One of the pictures posted by the imposter was taken from one the photographer's social media accounts.
+
+Can you find the original post?
+
+Flag format : GDSC{Link_of_the_original_post}
+
+*  Author : [5mayes](https://www.linkedin.com/in/khemaïs-kebaili)

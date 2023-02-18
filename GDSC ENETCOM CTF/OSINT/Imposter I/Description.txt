@@ -1,0 +1,17 @@
+We received many reports regarding someone who has been impersonating one of our core team members on our Discord server. The imposter kept sending malicious links in private messages to our members after engaging in conversations with them. The fake account has been banned from our Discord server and the threat actor deleted the account when he realized we were onto him. We need your help finding the real person behind the fake account.
+
+
+The fake account's username was: adamabich0u
+
+
+Can you find any other fake accounts that this person may have created online? A profile ID would be perfect for our investigation.
+
+
+Flag format: GDSC{SOCIALMEDIAPLATFORM_ID}
+
+
+Example: GDSC{PINTREST_000000001}
+
+
+*  Author : [5mayes](https://www.linkedin.com/in/khemaïs-kebaili)
+

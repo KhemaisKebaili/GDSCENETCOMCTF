@@ -1,0 +1,7 @@
+The imposter also pretends to be a photographer. He even posts pictures that he/she didn't really take.
+
+Can you find the real photographer?
+
+Flag format : GDSC{FirstName_LastName}
+
+*  Author : [5mayes](https://www.linkedin.com/in/khemaïs-kebaili)

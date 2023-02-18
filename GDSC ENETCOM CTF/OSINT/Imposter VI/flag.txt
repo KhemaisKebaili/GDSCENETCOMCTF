@@ -1,0 +1,12 @@
+Any flag of these is acceptable :
+	
+GDSC{34.8330602999694,10.756954099997373}
+ 
+	
+GDSC{résidence_fatma}
+ 
+
+GDSC{residence_fatma}
+ 
+
+GDSC{34.833056,10.756944}

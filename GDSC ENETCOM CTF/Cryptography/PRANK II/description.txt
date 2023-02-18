@@ -1,0 +1,7 @@
+I swear some of these CTF authors are commited to ruining my day apparently.. this time they left me a message saying that they replaced the flag with a ciphertext after crypting it using XOR and a very short key..
+
+Help please.. 
+
+Ciphertext: [XO_gk}nqilzp}{a
+
+*  Author : [5mayes](https://www.linkedin.com/in/khemaïs-kebaili)

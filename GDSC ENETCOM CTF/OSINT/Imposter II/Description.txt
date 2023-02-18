@@ -1,0 +1,9 @@
+Where does the imposter pretend to have worked?
+
+Flag format : GDSC{WORKPLACE_CITY}
+
+Replace any spaces in the workplace's name with a "_".
+
+Flag example: GDSC{GOOGLE_HEADQUARTERS_PARIS}
+
+*  Author : [5mayes](https://www.linkedin.com/in/khemaïs-kebaili)

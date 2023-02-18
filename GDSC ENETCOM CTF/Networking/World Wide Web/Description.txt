@@ -1,0 +1,9 @@
+Web servers are pieces of software that "serve" ( as pointed out by the name ) web pages.
+There are many web servers like httpd , nginx and Tomcat (but i am sure no one here plans to work at spiga).
+Can you find out what is the web server used and its version **enum.chalghoum.tn** ?
+
+Flag format : GDSC{WEBSERVER_VERSION}
+Example : GDSC{TOMCAT_6.9.0}
+
+
+*  Author : [Alzomra](https://oussemaloukil.me)

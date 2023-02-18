@@ -1,0 +1,28 @@
+Somehow you jumped the fence of the secret facility guarded by BEB, the high-tech security system
+and you found yourself infront of a weird looking car with tinted windows. It was branded as KARHBA. It was developed by a team of mad scientists who were tired of dealing with the harsh polar weather. 
+
+Being so curious, you wanted to see what it looks like from inside but you didn't want to make your presence in the secret lab known just yet. You somehow crafted an antenna using some spare tools found around the lab and you found a little spot where you decided to hide and start sniffing the signals that are exchanged between the car and its key when it's pressed by one of the scientists. You figured that they use a lock and unlock system where the lock and unlock codes are generated using a highly advanced algorithm and are extremely difficult to crack.
+
+You gathered enough data and code sequences and you decided to pass to action and figure out the algorithm, generate an unlock code and finally see with your own eyes what KARHBA looks like from the inside.
+
+You'll need to make use of your skills in code analysis, pattern recognition and logical thinking to solve it. 
+
+FLAG format : GDSC{UnlockCode}
+
+Example : GDSC{0011010000110010001100000110011000110001011000110
+
+110001100111000011000100110001101100001001100110011001
+
+000110011011001010011100001100001001100000011011001100
+
+011001110000110001100110001001100010011010000110111001
+
+100000011001000111001001101010011100100110000011000110
+
+011001100111001001101100011100000111001001100010011010
+
+000110000}
+
+
+
+*  Author : [5mayes](https://www.linkedin.com/in/khemaïs-kebaili)
